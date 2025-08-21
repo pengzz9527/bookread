@@ -1,0 +1,5 @@
+{
+  "name": "AI Book Nook",
+  "description": "An affiliate book recommendation blog where administrators can log in to update recommended books. The platform uses AI to generate high-quality, original reviews to guide users in their purchasing decisions, while strictly adhering to affiliate program compliance requirements.",
+  "requestFramePermissions": []
+}
