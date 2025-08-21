@@ -1,5 +1,5 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="[bookread.jpg](https://ainet.site/api/cfile/AgACAgQAAyEGAAShl-5dAAOlaKboz-sU-dTEl-EZyr53NCbwMiAAAkvNMRvFmDFRco5TYtDA5CABAAMCAAN3AAM2BA)" />
+<img width="1200" height="475" alt="GHBanner" src="https://ainet.site/api/cfile/AgACAgQAAyEGAAShl-5dAAOlaKboz-sU-dTEl-EZyr53NCbwMiAAAkvNMRvFmDFRco5TYtDA5CABAAMCAAN3AAM2BA" />
 </div>
 
 # Run and deploy your AI Studio app
